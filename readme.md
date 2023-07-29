@@ -5,7 +5,7 @@
 </p>
 <h1 align="center" >Saha-AI: An AI-Powered Call Management System for Emergency Services</h1>
 <p align="center">
-  <a href="https://github.com/SiddharthaBhattacharjee/Team-Allies_GenAIRush2023/blob/master/LICENSE">
+  <a href="LICENSE.txt">
   <img src="https://img.shields.io/badge/license-MPL 2.0-blue.svg">
   </a>
   <a href="https://team-allies-gen-ai-rush2023-tl7z.vercel.app/">
