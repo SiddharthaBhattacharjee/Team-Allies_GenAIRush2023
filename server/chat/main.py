@@ -23,7 +23,7 @@ print("Training completed! Starting server... \n\nPress 'ctrl+c' to quit.")
 
 
 
-print("\tSentinal AI (AI Bot) - V1.0 \n\n")
+print("\t Saaha-AI (AI Bot) - V1.0 \n\n")
 
 app = Flask(__name__)
 
@@ -53,7 +53,7 @@ def chat():
 def firstMsg():
   return jsonify({
     'response':
-    'Hi there! I am SentinelAI chat bot. How can I assist you with your emergency case?'
+    'Hi there! I am Saaha-AI chat bot. How can I assist you with your emergency case?'
   })
 
 
