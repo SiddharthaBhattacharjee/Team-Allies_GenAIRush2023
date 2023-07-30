@@ -5,7 +5,7 @@
 </p>
 <h1 align="center" >Saha-AI: An AI-Powered Call Management System for Emergency Services</h1>
 <p align="center">
-  <a href="https://github.com/SiddharthaBhattacharjee/Team-Allies_GenAIRush2023/blob/master/LICENSE">
+  <a href="LICENSE.txt">
   <img src="https://img.shields.io/badge/license-MPL 2.0-blue.svg">
   </a>
   <a href="https://team-allies-gen-ai-rush2023-tl7z.vercel.app/">
@@ -57,10 +57,18 @@ To use Saha-AI, simply integrate the system with your emergency services call ce
 
 From a customer's perspective, just dial the number or open the chat app.
 
+For The Judges, To test the app out, dial the helpline number and open the operator dashboard. The operator dashboard is protected by a whitelist, In order to get access to the organiser dashboatd , Kindly contact me with your ethereum wallet address at : [siddharthabhatt2345@gmail.com](mailto:siddharthabhatt2345@gmail.com)
+
 <br>
 
 ## 🌱 Contributing
 We welcome contributions from developers and emergency services professionals who are interested in improving the Saha-AI system. If you would like to contribute, please fork this repository and submit a pull request with your changes.
+
+<br>
+
+## ⚙️ TechStack :
+<a href="https://www.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pythonbasics.org/what-is-flask-python/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/> </a>
+<a href="https://www.twilio.com/en-us" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg" alt="Twilio" width="40" height="40"/> </a> <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="Ethereum" width="40" height="40"/> </a> <a href="https://soliditylang.org" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" alt="Solidity" width="40" height="40"/> </a> <a href="https://replit.com/~" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/New_Replit_Logo.svg" alt="Replit" width="40" height="40"/> </a>
 
 <br>
 
