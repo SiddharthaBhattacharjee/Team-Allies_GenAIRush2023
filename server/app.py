@@ -15,9 +15,9 @@ import random
 app = Flask(__name__)
 base_url = "https://api.assemblyai.com/v2"
 
-headers = {"authorization": "56b358be260841d0acc6c2480ceafa2e"}
-client = Client("ACb8b05c3a3b447064a4dc61795ef83455",
-                "7729c783fd989ba8e62c04bac6aa642d")
+headers = {"authorization": "56b358be260841d0acc6c2xxxxxx"}
+client = Client("ACb8b05c3a3b447064a4dc61795xxxxx5",
+                "7729c783fd989ba8e62c04bac6xxxx2d")
 
 #Eth Starts Here
 
